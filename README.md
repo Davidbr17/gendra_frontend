@@ -26,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Env
 ```
-El puerto por default es el 8080, si esté cambia solo cambiarlo en el archivo .env
+El puerto por default del backend es el 8000, si esté cambia solo cambiarlo en el archivo .env
 ```
 
 
